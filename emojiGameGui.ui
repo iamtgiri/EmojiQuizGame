@@ -38,7 +38,7 @@ background-color: rgb(144, 255, 190);</string>
        <property name="font">
         <font>
          <family>Lucida Console</family>
-         <pointsize>15</pointsize>
+         <pointsize>12</pointsize>
         </font>
        </property>
        <property name="styleSheet">
