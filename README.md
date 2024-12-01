@@ -1,4 +1,4 @@
-# Emoji Guessing Game - README
+# Emoji Guessing Game
 
 ## Overview
 The Emoji Guessing Game is a desktop application built using Python and PyQt5. The game challenges users to guess the correct word or phrase associated with an emoji, based on a hint provided. Players have a limited number of attempts to guess correctly.
