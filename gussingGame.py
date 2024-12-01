@@ -22,7 +22,6 @@ class myGUI(QMainWindow):
         self.textBrowser.setText(df["hint"][i])
         
         self.pushButton_2.clicked.connect(self.check_response)
-        # self.pushButton_3.clicked.connect(self.play_next)
         self.pushButton.clicked.connect(self.show_answer)
         
     def play_next(self):
